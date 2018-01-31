@@ -1,0 +1,4 @@
+#Wed Jan 31 15:54:55 IST 2018
+base.0=/home/vikram/tensorflow-for-poets-2/android/tflite/app/build/intermediates/transforms/dexMerger/debug/18
+path.0=classes.dex
+renamed.0=classes.dex

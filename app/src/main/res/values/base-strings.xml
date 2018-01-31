@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<resources>
+    <string name="app_name">Sight</string>
+    <string name="intro_message">
+        <![CDATA[
+        
+            
+            A helpful app for blind people which detects objects in offline.
+            
+        
+        ]]>
+    </string>
+</resources>
