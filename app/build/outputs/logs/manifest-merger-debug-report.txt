@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/vikram/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:3:1-27:12
-INJECTED from /home/vikram/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:3:1-27:12
-INJECTED from /home/vikram/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:3:1-27:12
-INJECTED from /home/vikram/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:3:1-27:12
+ADDED from /home/vikram/sight/android/tflite/app/src/main/AndroidManifest.xml:3:1-27:12
+INJECTED from /home/vikram/sight/android/tflite/app/src/main/AndroidManifest.xml:3:1-27:12
+INJECTED from /home/vikram/sight/android/tflite/app/src/main/AndroidManifest.xml:3:1-27:12
+INJECTED from /home/vikram/sight/android/tflite/app/src/main/AndroidManifest.xml:3:1-27:12
 MERGED from [com.android.support:design:25.2.0] /root/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/76fb615d47e3590961a91f392f26e021/AndroidManifest.xml:17:1-27:12
 MERGED from [com.android.support:appcompat-v7:25.2.0] /root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/9a1c7296239766dbbee9b50c3ea99f19/AndroidManifest.xml:17:1-27:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /root/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/9b0895085f5be25a204461dd9da251ee/AndroidManifest.xml:2:1-11:12
@@ -19,39 +19,39 @@ MERGED from [com.android.support:support-core-utils:25.2.0] /root/.gradle/caches
 MERGED from [com.android.support:support-core-ui:25.2.0] /root/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/481bd2733470548572835080afe3ce37/AndroidManifest.xml:17:1-27:12
 MERGED from [com.android.support:support-compat:25.2.0] /root/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/2b3d278cffeb9645f0248676d6b9fd1f/AndroidManifest.xml:17:1-27:12
 MERGED from [org.tensorflow:tensorflow-lite:0.1.1] /root/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-0.1.1.aar/df8625d3d8915d48e3906d910e4dccdd/AndroidManifest.xml:2:1-6:12
-INJECTED from /home/vikram/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:3:1-27:12
-INJECTED from /home/vikram/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:3:1-27:12
-INJECTED from /home/vikram/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:3:1-27:12
+INJECTED from /home/vikram/sight/android/tflite/app/src/main/AndroidManifest.xml:3:1-27:12
+INJECTED from /home/vikram/sight/android/tflite/app/src/main/AndroidManifest.xml:3:1-27:12
+INJECTED from /home/vikram/sight/android/tflite/app/src/main/AndroidManifest.xml:3:1-27:12
 	package
-		ADDED from /home/vikram/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:4:5-51
-		INJECTED from /home/vikram/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
-		INJECTED from /home/vikram/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /home/vikram/sight/android/tflite/app/src/main/AndroidManifest.xml:4:5-51
+		INJECTED from /home/vikram/sight/android/tflite/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vikram/sight/android/tflite/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/vikram/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
-		ADDED from /home/vikram/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:3:1-27:12
-		INJECTED from /home/vikram/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vikram/sight/android/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /home/vikram/sight/android/tflite/app/src/main/AndroidManifest.xml:3:1-27:12
+		INJECTED from /home/vikram/sight/android/tflite/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /home/vikram/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
-		ADDED from /home/vikram/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:3:1-27:12
-		INJECTED from /home/vikram/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vikram/sight/android/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /home/vikram/sight/android/tflite/app/src/main/AndroidManifest.xml:3:1-27:12
+		INJECTED from /home/vikram/sight/android/tflite/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/vikram/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:3:11-69
+		ADDED from /home/vikram/sight/android/tflite/app/src/main/AndroidManifest.xml:3:11-69
 uses-permission#android.permission.CAMERA
-ADDED from /home/vikram/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:6:5-65
+ADDED from /home/vikram/sight/android/tflite/app/src/main/AndroidManifest.xml:6:5-65
 	android:name
-		ADDED from /home/vikram/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:6:22-62
+		ADDED from /home/vikram/sight/android/tflite/app/src/main/AndroidManifest.xml:6:22-62
 uses-feature#android.hardware.camera
-ADDED from /home/vikram/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:8:5-60
+ADDED from /home/vikram/sight/android/tflite/app/src/main/AndroidManifest.xml:8:5-60
 	android:name
-		ADDED from /home/vikram/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:8:19-57
+		ADDED from /home/vikram/sight/android/tflite/app/src/main/AndroidManifest.xml:8:19-57
 uses-feature#android.hardware.camera.autofocus
-ADDED from /home/vikram/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:9:5-70
+ADDED from /home/vikram/sight/android/tflite/app/src/main/AndroidManifest.xml:9:5-70
 	android:name
-		ADDED from /home/vikram/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:9:19-67
+		ADDED from /home/vikram/sight/android/tflite/app/src/main/AndroidManifest.xml:9:19-67
 uses-sdk
-ADDED from /home/vikram/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:11:5-44
-INJECTED from /home/vikram/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:11:5-44
-INJECTED from /home/vikram/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:11:5-44
+ADDED from /home/vikram/sight/android/tflite/app/src/main/AndroidManifest.xml:11:5-44
+INJECTED from /home/vikram/sight/android/tflite/app/src/main/AndroidManifest.xml:11:5-44
+INJECTED from /home/vikram/sight/android/tflite/app/src/main/AndroidManifest.xml:11:5-44
 MERGED from [com.android.support:design:25.2.0] /root/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/76fb615d47e3590961a91f392f26e021/AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:design:25.2.0] /root/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/76fb615d47e3590961a91f392f26e021/AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:appcompat-v7:25.2.0] /root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/9a1c7296239766dbbee9b50c3ea99f19/AndroidManifest.xml:21:5-23:78
@@ -82,21 +82,21 @@ MERGED from [com.android.support:support-compat:25.2.0] /root/.gradle/caches/tra
 MERGED from [com.android.support:support-compat:25.2.0] /root/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/2b3d278cffeb9645f0248676d6b9fd1f/AndroidManifest.xml:21:5-23:58
 MERGED from [org.tensorflow:tensorflow-lite:0.1.1] /root/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-0.1.1.aar/df8625d3d8915d48e3906d910e4dccdd/AndroidManifest.xml:4:4-45
 MERGED from [org.tensorflow:tensorflow-lite:0.1.1] /root/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-0.1.1.aar/df8625d3d8915d48e3906d910e4dccdd/AndroidManifest.xml:4:4-45
-INJECTED from /home/vikram/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:11:5-44
-INJECTED from /home/vikram/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:11:5-44
+INJECTED from /home/vikram/sight/android/tflite/app/src/main/AndroidManifest.xml:11:5-44
+INJECTED from /home/vikram/sight/android/tflite/app/src/main/AndroidManifest.xml:11:5-44
 	tools:overrideLibrary
 		ADDED from [com.android.support:design:25.2.0] /root/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/76fb615d47e3590961a91f392f26e021/AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from /home/vikram/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
-		ADDED from /home/vikram/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:11:5-44
-		INJECTED from /home/vikram/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vikram/sight/android/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /home/vikram/sight/android/tflite/app/src/main/AndroidManifest.xml:11:5-44
+		INJECTED from /home/vikram/sight/android/tflite/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from /home/vikram/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:11:15-41
-		INJECTED from /home/vikram/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
-		MERGED from /home/vikram/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:11:15-41
-		INJECTED from /home/vikram/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /home/vikram/sight/android/tflite/app/src/main/AndroidManifest.xml:11:15-41
+		INJECTED from /home/vikram/sight/android/tflite/app/src/main/AndroidManifest.xml
+		MERGED from /home/vikram/sight/android/tflite/app/src/main/AndroidManifest.xml:11:15-41
+		INJECTED from /home/vikram/sight/android/tflite/app/src/main/AndroidManifest.xml
 application
-ADDED from /home/vikram/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:13:5-25:19
+ADDED from /home/vikram/sight/android/tflite/app/src/main/AndroidManifest.xml:13:5-25:19
 MERGED from [com.android.support:design:25.2.0] /root/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/76fb615d47e3590961a91f392f26e021/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:design:25.2.0] /root/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/76fb615d47e3590961a91f392f26e021/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:appcompat-v7:25.2.0] /root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/9a1c7296239766dbbee9b50c3ea99f19/AndroidManifest.xml:25:5-20
@@ -126,26 +126,26 @@ MERGED from [com.android.support:support-compat:25.2.0] /root/.gradle/caches/tra
 MERGED from [org.tensorflow:tensorflow-lite:0.1.1] /root/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-0.1.1.aar/df8625d3d8915d48e3906d910e4dccdd/AndroidManifest.xml:4:45-5:18
 MERGED from [org.tensorflow:tensorflow-lite:0.1.1] /root/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-0.1.1.aar/df8625d3d8915d48e3906d910e4dccdd/AndroidManifest.xml:4:45-5:18
 	android:label
-		ADDED from /home/vikram/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:14:9-41
+		ADDED from /home/vikram/sight/android/tflite/app/src/main/AndroidManifest.xml:14:9-41
 	android:icon
-		ADDED from /home/vikram/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:15:9-45
+		ADDED from /home/vikram/sight/android/tflite/app/src/main/AndroidManifest.xml:15:9-45
 	android:allowBackup
-		ADDED from /home/vikram/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:13:18-44
+		ADDED from /home/vikram/sight/android/tflite/app/src/main/AndroidManifest.xml:13:18-44
 	android:theme
-		ADDED from /home/vikram/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:16:9-45
+		ADDED from /home/vikram/sight/android/tflite/app/src/main/AndroidManifest.xml:16:9-45
 activity#com.example.android.tflitecamerademo.CameraActivity
-ADDED from /home/vikram/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:9-24:20
+ADDED from /home/vikram/sight/android/tflite/app/src/main/AndroidManifest.xml:18:9-24:20
 	android:label
-		ADDED from /home/vikram/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:19:19-51
+		ADDED from /home/vikram/sight/android/tflite/app/src/main/AndroidManifest.xml:19:19-51
 	android:name
-		ADDED from /home/vikram/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:19-85
+		ADDED from /home/vikram/sight/android/tflite/app/src/main/AndroidManifest.xml:18:19-85
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/vikram/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:20:13-23:29
+ADDED from /home/vikram/sight/android/tflite/app/src/main/AndroidManifest.xml:20:13-23:29
 action#android.intent.action.MAIN
-ADDED from /home/vikram/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:21:17-69
+ADDED from /home/vikram/sight/android/tflite/app/src/main/AndroidManifest.xml:21:17-69
 	android:name
-		ADDED from /home/vikram/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:21:25-66
+		ADDED from /home/vikram/sight/android/tflite/app/src/main/AndroidManifest.xml:21:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/vikram/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:22:17-77
+ADDED from /home/vikram/sight/android/tflite/app/src/main/AndroidManifest.xml:22:17-77
 	android:name
-		ADDED from /home/vikram/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:22:27-74
+		ADDED from /home/vikram/sight/android/tflite/app/src/main/AndroidManifest.xml:22:27-74

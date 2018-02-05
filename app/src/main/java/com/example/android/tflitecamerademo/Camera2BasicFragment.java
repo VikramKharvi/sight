@@ -54,7 +54,8 @@ import java.util.concurrent.TimeUnit;
 /** Basic fragments for the Camera. */
 public class Camera2BasicFragment extends Fragment
     implements FragmentCompat.OnRequestPermissionsResultCallback {
-
+  public static int c=0;
+  public static String temp ="";
   /** Tag for the {@link Log}. */
   private static final String TAG = "TfLiteCameraDemo";
 
@@ -69,7 +70,7 @@ public class Camera2BasicFragment extends Fragment
   private boolean checkedPermissions = false;
   private TextView textView;
   private ImageClassifier classifier;
-
+  private TextView t;
   /** Max preview width that is guaranteed by Camera2 API */
   private static final int MAX_PREVIEW_WIDTH = 1920;
 
@@ -195,7 +196,16 @@ public class Camera2BasicFragment extends Fragment
           new Runnable() {
             @Override
             public void run() {
-              textView.setText(text);
+                if(c==0)
+                    temp=text;
+                if (c==10 && temp.equals(text))
+                {
+                    c=0;
+                    t.setText(temp);
+                    //show permanent label
+                }
+                textView.setText(text);
+                c=c+1;
             }
           });
     }
@@ -275,6 +285,7 @@ public class Camera2BasicFragment extends Fragment
   public void onViewCreated(final View view, Bundle savedInstanceState) {
     textureView = (AutoFitTextureView) view.findViewById(R.id.texture);
     textView = (TextView) view.findViewById(R.id.text);
+    t = (TextView) view.findViewById(R.id.gugu);
   }
 
   /** Load the model and labels. */
@@ -540,8 +551,10 @@ public class Camera2BasicFragment extends Fragment
         @Override
         public void run() {
           synchronized (lock) {
+
             if (runClassifier) {
               classifyFrame();
+
             }
           }
           backgroundHandler.post(periodicClassify);
@@ -648,6 +661,7 @@ public class Camera2BasicFragment extends Fragment
         textureView.getBitmap(ImageClassifier.DIM_IMG_SIZE_X, ImageClassifier.DIM_IMG_SIZE_Y);
     String textToShow = classifier.classifyFrame(bitmap);
     bitmap.recycle();
+
     showToast(textToShow);
   }
 
